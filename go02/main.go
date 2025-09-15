@@ -15,5 +15,6 @@ func main() {
 
     for k,v := range m {
         fmt.Println(k,"->",*v)
+        fmt.Println(k,"->",*v)
     }
 }
